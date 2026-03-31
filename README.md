@@ -1,13 +1,10 @@
-# SQL-Portfolio_BrazilianE-Commerce
-
-# 🛒 Brazilian E-Commerce — Business Intelligence Analysis
+# Brazilian E-Commerce Analysis - SQL Project
 
 > **Analytical case study on Olist's 100K marketplace orders — covering customer value, retention, seller performance, logistics risk, and payment anomalies, grounded in real 2016–2018 transaction data.**
 
-[![Made With SQL](https://img.shields.io/badge/Made%20with-SQL-blue?style=flat-square&logo=postgresql)](https://www.postgresql.org/)
+[![Made With SQL](https://img.shields.io/badge/Made%20with-SQL-blue?style=flat-square&logo=mysql)](https://www.mysql.com/)
 [![Dataset](https://img.shields.io/badge/Dataset-Olist%20Brazilian%20E--Commerce-orange?style=flat-square&logo=kaggle)](https://www.kaggle.com/datasets/olistbr/brazilian-ecommerce)
 [![Analyses](https://img.shields.io/badge/Analyses-10-green?style=flat-square)]()
-[![Orders](https://img.shields.io/badge/Orders-100K%2B-purple?style=flat-square)]()
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Arruum%20Kiranadjie-0A66C2?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/arruumkiranadjie/)
 
 ---
