@@ -1,5 +1,6 @@
 # Brazilian E-Commerce Analysis - SQL Project
 
+[![SQL](https://img.shields.io/badge/SQL-4682B4?style=for-the-badge)]()
 [![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)](https://www.mysql.com/)
 [![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/)
 [![Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=excel&logoColor=white)]()
@@ -9,7 +10,7 @@
 
 ## 📌 Overview
 
-This project is a business-first, end-to-end SQL analysis of **Olist** — Brazil's largest e-commerce marketplace — using its publicly available transaction dataset from Kaggle. The dataset spans **2016 to 2018** and covers over **100,000 orders** across multiple relational tables, capturing the full commercial lifecycle from customer purchase through to delivery, payment, and review.
+*SQL Project - Brazilian E-Commerce Analysis* provides a business-first, data-driven diagnostic of one of Brazil’s largest e-commerce marketplace, **Olist**. Moving beyond descriptive statistics, this analysis utilizes advanced SQL to dissect the commercial lifecycle of over **100,000** orders spans from **2016–2018**. The primary objective is to identify levers for **revenue stability, customer retention, and operational excellence** by uncovering hidden frictions in the order funnel and seller performance.
 
 Each of the **10 analyses** in this project follows a structured analytical framework:
 
