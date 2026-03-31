@@ -2,10 +2,9 @@
 
 > **Analytical case study on Olist's 100K marketplace orders — covering customer value, retention, seller performance, logistics risk, and payment anomalies, grounded in real 2016–2018 transaction data.**
 
-[![Made With SQL](https://img.shields.io/badge/Made%20with-SQL-blue?style=flat-square&logo=mysql)](https://www.mysql.com/)
-[![Dataset](https://img.shields.io/badge/Dataset-Olist%20Brazilian%20E--Commerce-orange?style=flat-square&logo=kaggle)](https://www.kaggle.com/datasets/olistbr/brazilian-ecommerce)
-[![Analyses](https://img.shields.io/badge/Analyses-10-green?style=flat-square)]()
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Arruum%20Kiranadjie-0A66C2?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/arruumkiranadjie/)
+[![Query](https://img.shields.io/badge/Query%20-MySQL-0A66C2?style=flat-square&logo=mysql)](https://www.mysql.com/)
+[![Dataset](https://img.shields.io/badge/Dataset-Kaggle:%20Brazilian%20E--Commerce%20Olist-0A66C2?style=flat-square&logo=kaggle)](https://www.kaggle.com/datasets/olistbr/brazilian-ecommerce)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Arruum%20Kiranadjie-0A66C2?style=flat-square&logo=linkedIn)](https://www.linkedin.com/in/arruumkiranadjie/)
 
 ---
 
