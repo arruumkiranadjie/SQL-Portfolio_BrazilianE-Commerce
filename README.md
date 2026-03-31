@@ -104,16 +104,16 @@ The Dataset is sourced from the [Brazilian E-Commerce Public Dataset by Olist](h
 
 ## 💡 Key Findings Summary
 
-- **Customer retention is critically low** — only 2.05% of customers make a second purchase within 90 days, making early activation campaigns the highest-ROI retention investment.
-- **The funnel bottleneck is post-payment, not checkout** — 98.44% of orders pass payment approval, but the gap between payment and shipment is where the platform loses the most value.
-- **Late delivery is the #1 review score killer** — more than half of customers who receive a late order leave a negative review, with disproportionate 1–2 star rates vs on-time deliveries.
-- **Revenue stability matters more than revenue size** — sellers with moderate but consistent revenue outperform high-revenue volatile sellers on platform risk metrics.
-- **High order volume ≠ high profitability** — several top-volume product categories fall in the bottom revenue quartile, consuming logistics resources that outpace their commercial contribution.
+- **Customer Retention Is Critically Low:** Only 2.05% of customers make a second purchase within 90 days, making early activation campaigns the highest-ROI retention investment.
+- **The Funnel Bottleneck Is Post-Payment, Not Checkout:** 98.44% of orders pass payment approval, but the gap between payment and shipment is where the platform loses the most value.
+- **Late Delivery Is The #1 Review Score Killer:** More than half of customers who receive a late order leave a negative review, with disproportionate 1–2 star rates vs on-time deliveries.
+- **Revenue Stability Matters More Than Revenue Size:** Sellers with moderate but consistent revenue outperform high-revenue volatile sellers on platform risk metrics.
+- **High Order Volume ≠ High Profitability:** Several top-volume product categories fall in the bottom revenue quartile, creating logistics resources that outpace their commercial contribution.
 
 ## 👤 About the Author
 
-**Arruum Pratistha Kiranadjie**
-Data Analyst | Quantitative Analyst
+**Arruum Pratistha Kiranadjie**     
+Data Analyst | Quantitative Analyst | Operations Research Analyst
 
 Mathematics graduate with a focus on applied analytics, business intelligence, and data-driven decision-making. Proficient in SQL, Python, Microsoft Power BI, and Microsoft Excel.
 
