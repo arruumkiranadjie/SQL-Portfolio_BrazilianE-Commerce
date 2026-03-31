@@ -31,13 +31,13 @@ Rather than treating SQL as an end in itself, this project uses data as a lens f
 ## 📂 Repository Structure
 
 ```
-SQL-Portfolio_BrazilianE-Commerce/
+SQL-Portfolio_BrazilianE-Commerce
 │
-├── README.md                          ← You are here
+├── README.md                               ← README
 │
-├── queries/                           ← All SQL query files by analysis
+├── queries                                 ← All SQL Query Files by Analysis
 │   ├── 01_true_clv.sql
-│   ├── 02_repeat_purchase_behaviour.sql
+│   ├── 02_repeat_purchase_behaviour.sql    
 │   ├── 03_order_funnel_dropoff.sql
 │   ├── 04_late_delivery_impact.sql
 │   ├── 05_seller_revenue_stability.sql
@@ -47,8 +47,20 @@ SQL-Portfolio_BrazilianE-Commerce/
 │   ├── 09_installment_risk.sql
 │   └── 10_abnormal_payment_detection.sql
 │
-└── reports/
-    └── BrazilianE-Commerce_Analysis.pdf  ← Full analysis report with insights & recommendations
+├── analysis                                 ← Full Analysis Report with Insights and Recommendations  
+│   ├── BrazilianE-Commerce_Analysis.docx
+│   └── BrazilianE-Commerce_Analysis.pdf
+│
+└── src                                      ← Source For This Project
+    └── data                                 ← Datasets Used For This Project
+        ├── olist_customers_dataset.csv
+        ├── olist_order_items_dataset.csv
+        ├── olist_order_payments_dataset.csv
+        ├── olist_order_reviews_dataset.csv
+        ├── olist_orders_dataset.csv
+        ├── olist_products_dataset.csv
+        ├── olist_sellers_dataset.csv
+        └── product_category_name_translation.csv
 ```
 
 ---
