@@ -115,14 +115,10 @@ The Dataset is sourced from the [Brazilian E-Commerce Public Dataset by Olist](h
 **Arruum Pratistha Kiranadjie**     
 Data Analyst | Quantitative Analyst | Operations Research Analyst
 
-Mathematics graduate with a focus on applied analytics, business intelligence, and data-driven decision-making. Proficient in SQL, Python, Microsoft Power BI, and Microsoft Excel.
+Data-driven professional with a solid background in data analytics and quantitative research. Experienced in transforming complex datasets into actionable business insights using statistical methods, data visualization, and data modeling. Proven success leading end-to-end research projects across various industries. Passionate about leveraging data to drive strategic decisions and business growth.
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/arruumkiranadjie/)
-[![GitHub](https://img.shields.io/badge/GitHub-arruumkiranadjie-181717?style=flat-square&logo=github)](https://github.com/arruumkiranadjie)
-
-## 📄 License
-
-This project is licensed under the MIT License. The dataset is publicly available via [Kaggle](https://www.kaggle.com/datasets/olistbr/brazilian-ecommerce) under its original terms of use.
+- [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/arruumkiranadjie/)
+- [![GitHub](https://img.shields.io/badge/GitHub-arruumkiranadjie-181717?style=flat-square&logo=github)](https://github.com/arruumkiranadjie)
 
 ---
 
