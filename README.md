@@ -1,8 +1,11 @@
 # Brazilian E-Commerce Analysis - SQL Project
 
-[![Query](https://img.shields.io/badge/Query%20-MySQL-0A66C2?style=for-the-badge&logo=mysql)](https://www.mysql.com/)
-[![Dataset](https://img.shields.io/badge/Dataset-Kaggle:%20Brazilian%20E--Commerce%20Olist-0A66C2?style=for-the-badge&logo=kaggle)](https://www.kaggle.com/datasets/olistbr/brazilian-ecommerce)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Arruum%20Kiranadjie-0A66C2?style=for-the-badge&logo=linkedIn)](https://www.linkedin.com/in/arruumkiranadjie/)
+[![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)](https://www.mysql.com/)
+[![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/)
+[![Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=excel&logoColor=white)]()
+[![Word](https://img.shields.io/badge/Microsoft_Word-2B579A?style=for-the-badge&logo=word&logoColor=white)]()
+[![Markdown](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)](https://www.markdownguide.org)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com)
 
 ## 📌 Overview
 
