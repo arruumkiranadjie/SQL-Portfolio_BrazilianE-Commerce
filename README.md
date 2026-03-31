@@ -53,7 +53,7 @@ SQL-Portfolio_BrazilianE-Commerce
         └── product_category_name_translation.csv
 ```
 
-## 🗄️ Dataset
+## 📊 Dataset 
 
 The Dataset is sourced from the [Brazilian E-Commerce Public Dataset by Olist](https://www.kaggle.com/datasets/olistbr/brazilian-ecommerce) on Kaggle. It is a real, anonymised commercial dataset covering the operations of Olist, a marketplace that connects small businesses across Brazil to customers through a single contract.
 
@@ -68,7 +68,7 @@ The Dataset is sourced from the [Brazilian E-Commerce Public Dataset by Olist](h
 | `olist_sellers_dataset` | Seller identity and geolocation |
 | `product_category_name_translation` | Portuguese-to-English category name mapping |
 
-## 🔍 Analyses
+## 🧠 Analyses
 
 
 1.    **True Customer Lifetime Value (CLV):** Identifies top-tier customers by measuring total spend and the velocity of value generation to prioritize high-impact retention.
@@ -93,15 +93,14 @@ The Dataset is sourced from the [Brazilian E-Commerce Public Dataset by Olist](h
 
 ## 🛠️ SQL Techniques Reference
 
-| Technique | Analyses Used |
+| Technique | Implementation |
 |---|---|
-| Common Table Expressions (CTEs) | All 10 analyses |
-| Window Functions (`SUM OVER`, `ROW_NUMBER`, `NTILE`) | 01, 02, 07 |
-| Conditional Aggregation (`CASE WHEN` in `SUM`/`AVG`) | 02, 03, 04, 09, 10 |
-| Statistical Functions (`STDDEV`, `AVG`, `NULLIF`) | 05, 08 |
-| Date Arithmetic (`TIMESTAMPDIFF`, `DATE_FORMAT`, `MONTH`) | 01, 02, 05, 08 |
-| Multi-table JOINs (3–4 tables per query) | All 10 analyses |
-| Threshold & Rule-based Flagging | 06, 10 |
+| Common Table Expressions (CTEs) | `WITH` |
+| Window Functions | `SUM OVER`, `ROW_NUMBER`, `NTILE` |
+| Conditional Aggregation | `CASE WHEN`, `HAVING` in `GROUP BY`|
+| Statistical Functions | `STDDEV`, `AVG`, `NULLIF` |
+| Date Arithmetic | `TIMESTAMPDIFF`, `DATE_FORMAT`, `MONTH` |
+| Multi-table JOINs | `JOIN` |
 
 ## 💡 Key Findings Summary
 
