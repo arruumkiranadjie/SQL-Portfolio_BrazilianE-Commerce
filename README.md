@@ -110,16 +110,13 @@ The Dataset is sourced from the [Brazilian E-Commerce Public Dataset by Olist](h
 - **Revenue Stability Matters More Than Revenue Size:** Sellers with moderate but consistent revenue outperform high-revenue volatile sellers on platform risk metrics.
 - **High Order Volume ≠ High Profitability:** Several top-volume product categories fall in the bottom revenue quartile, creating logistics resources that outpace their commercial contribution.
 
-## 👤 About the Author
+## 👤 About The Author
 
 **Arruum Pratistha Kiranadjie**     
 Data Analyst | Quantitative Analyst | Operations Research Analyst
 
 Data-driven professional with a solid background in data analytics and quantitative research. Experienced in transforming complex datasets into actionable business insights using statistical methods, data visualization, and data modeling. Proven success leading end-to-end research projects across various industries. Passionate about leveraging data to drive strategic decisions and business growth.
 
-- [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/arruumkiranadjie/)
-- [![GitHub](https://img.shields.io/badge/GitHub-arruumkiranadjie-181717?style=flat-square&logo=github)](https://github.com/arruumkiranadjie)
-
----
-
-*If you found this project useful or insightful, feel free to ⭐ the repository.*
+- [LinkedIn: Arruum Kiranadjie](https://www.linkedin.com/in/arruumkiranadjie)
+- [GitHub: Arruum Kiranadjie](https://github.com/arruumkiranadjie)
+- [Tableau: Arruum Kiranadjie](https://public.tableau.com/app/profile/arruum.kiranadjie/vizzes) 
