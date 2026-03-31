@@ -13,13 +13,11 @@ This project is a business-first, end-to-end SQL analysis of **Olist** — Brazi
 
 Each of the **10 analyses** in this project follows a structured analytical framework:
 
-1. **Business Context:**  Why this question matters commercially
-2. **Hypothesis:**  the assumptions and definitions underpinning the query logic
-3. **SQL Query:**  the complete, production-quality query using advanced techniques
-4. **Key Insight:**  what the data actually reveals
-5. **Business Recommendation:**  prioritised, actionable next steps for the platform
-
-Rather than treating SQL as an end in itself, this project uses data as a lens for strategic decision-making — the kind of thinking that drives real business value.
+1. **Business Context:**  Identifies the specific business pain point or opportunity
+2. **Hypothesis:**  Assumptions and definitions underpinning the query logic
+3. **SQL Query:**  Complete and production-quality query using advanced techniques
+4. **Key Insight:**  Data-driven findings that pinpoint where the business is succeeding or leaking value
+5. **Business Recommendation:**  An evidence-based roadmap for stakeholders
 
 ## 📂 Repository Structure
 
