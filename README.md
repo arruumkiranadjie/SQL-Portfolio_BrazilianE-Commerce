@@ -1,12 +1,8 @@
 # Brazilian E-Commerce Analysis - SQL Project
 
-> **Analytical case study on Olist's 100K marketplace orders — covering customer value, retention, seller performance, logistics risk, and payment anomalies, grounded in real 2016–2018 transaction data.**
-
-[![Query](https://img.shields.io/badge/Query%20-MySQL-0A66C2?style=flat-square&logo=mysql)](https://www.mysql.com/)
-[![Dataset](https://img.shields.io/badge/Dataset-Kaggle:%20Brazilian%20E--Commerce%20Olist-0A66C2?style=flat-square&logo=kaggle)](https://www.kaggle.com/datasets/olistbr/brazilian-ecommerce)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Arruum%20Kiranadjie-0A66C2?style=flat-square&logo=linkedIn)](https://www.linkedin.com/in/arruumkiranadjie/)
-
----
+[![Query](https://img.shields.io/badge/Query%20-MySQL-0A66C2?style=for-the-badge&logo=mysql)](https://www.mysql.com/)
+[![Dataset](https://img.shields.io/badge/Dataset-Kaggle:%20Brazilian%20E--Commerce%20Olist-0A66C2?style=for-the-badge&logo=kaggle)](https://www.kaggle.com/datasets/olistbr/brazilian-ecommerce)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Arruum%20Kiranadjie-0A66C2?style=for-the-badge&logo=linkedIn)](https://www.linkedin.com/in/arruumkiranadjie/)
 
 ## 📌 Overview
 
@@ -21,8 +17,6 @@ Each of the **10 analyses** in this project follows a structured analytical fram
 5. **Business Recommendation** — prioritised, actionable next steps for the platform
 
 Rather than treating SQL as an end in itself, this project uses data as a lens for strategic decision-making — the kind of thinking that drives real business value.
-
----
 
 ## 📂 Repository Structure
 
