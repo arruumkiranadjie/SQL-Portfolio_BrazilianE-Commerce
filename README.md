@@ -121,4 +121,6 @@ Data-driven professional with a solid background in data analytics and quantitat
 
 - [LinkedIn: Arruum Kiranadjie](https://www.linkedin.com/in/arruumkiranadjie)
 - [GitHub: Arruum Kiranadjie](https://github.com/arruumkiranadjie)
-- [Tableau: Arruum Kiranadjie](https://public.tableau.com/app/profile/arruum.kiranadjie/vizzes) 
+- [Tableau: Arruum Kiranadjie](https://public.tableau.com/app/profile/arruum.kiranadjie/vizzes)
+
+© 2026 Arruum Kiranadjie. All rights reserved.
