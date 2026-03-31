@@ -10,11 +10,11 @@ This project is a business-first, end-to-end SQL analysis of **Olist** — Brazi
 
 Each of the **10 analyses** in this project follows a structured analytical framework:
 
-1. **Business Context** — why this question matters commercially
-2. **Hypothesis** — the assumptions and definitions underpinning the query logic
-3. **SQL Query** — the complete, production-quality query using advanced techniques
-4. **Key Insight** — what the data actually reveals
-5. **Business Recommendation** — prioritised, actionable next steps for the platform
+1. **Business Context:**  Why this question matters commercially
+2. **Hypothesis:**  the assumptions and definitions underpinning the query logic
+3. **SQL Query:**  the complete, production-quality query using advanced techniques
+4. **Key Insight:**  what the data actually reveals
+5. **Business Recommendation:**  prioritised, actionable next steps for the platform
 
 Rather than treating SQL as an end in itself, this project uses data as a lens for strategic decision-making — the kind of thinking that drives real business value.
 
@@ -53,24 +53,20 @@ SQL-Portfolio_BrazilianE-Commerce
         └── product_category_name_translation.csv
 ```
 
----
-
 ## 🗄️ Dataset
 
-The dataset is sourced from the [Brazilian E-Commerce Public Dataset by Olist](https://www.kaggle.com/datasets/olistbr/brazilian-ecommerce) on Kaggle. It is a real, anonymised commercial dataset covering the operations of Olist, a marketplace that connects small businesses across Brazil to customers through a single contract.
+The Dataset is sourced from the [Brazilian E-Commerce Public Dataset by Olist](https://www.kaggle.com/datasets/olistbr/brazilian-ecommerce) on Kaggle. It is a real, anonymised commercial dataset covering the operations of Olist, a marketplace that connects small businesses across Brazil to customers through a single contract.
 
 | Table | Description |
 |---|---|
 | `olist_orders_dataset` | Order lifecycle, statuses, and all key timestamps |
 | `olist_customers_dataset` | Customer unique identity and geolocation |
 | `olist_order_payments_dataset` | Payment values, types, and installment counts |
-| `olist_order_reviews_dataset` | Customer review scores (1–5) and comments |
+| `olist_order_reviews_dataset` | Customer review scores and key timestamps |
 | `olist_order_items_dataset` | Item-level price, freight value, and seller mapping |
 | `olist_products_dataset` | Product attributes and raw category names |
 | `olist_sellers_dataset` | Seller identity and geolocation |
 | `product_category_name_translation` | Portuguese-to-English category name mapping |
-
----
 
 ## 🔍 Analyses
 
@@ -208,8 +204,6 @@ The dataset is sourced from the [Brazilian E-Commerce Public Dataset by Olist](h
 
 **SQL Techniques:** `COUNT(DISTINCT payment_type)` for type diversity, `NULLIF()` for safe ratio calculation, multi-condition `CASE WHEN` for rule-based anomaly classification, `WHERE` clause with `OR` conditions for targeted flagging.
 
----
-
 ## 🛠️ SQL Techniques Reference
 
 | Technique | Analyses Used |
@@ -222,8 +216,6 @@ The dataset is sourced from the [Brazilian E-Commerce Public Dataset by Olist](h
 | Multi-table JOINs (3–4 tables per query) | All 10 analyses |
 | Threshold & Rule-based Flagging | 06, 10 |
 
----
-
 ## 💡 Key Findings Summary
 
 - **Customer retention is critically low** — only 2.05% of customers make a second purchase within 90 days, making early activation campaigns the highest-ROI retention investment.
@@ -231,8 +223,6 @@ The dataset is sourced from the [Brazilian E-Commerce Public Dataset by Olist](h
 - **Late delivery is the #1 review score killer** — more than half of customers who receive a late order leave a negative review, with disproportionate 1–2 star rates vs on-time deliveries.
 - **Revenue stability matters more than revenue size** — sellers with moderate but consistent revenue outperform high-revenue volatile sellers on platform risk metrics.
 - **High order volume ≠ high profitability** — several top-volume product categories fall in the bottom revenue quartile, consuming logistics resources that outpace their commercial contribution.
-
----
 
 ## 👤 About the Author
 
@@ -243,8 +233,6 @@ Mathematics graduate with a focus on applied analytics, business intelligence, a
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/arruumkiranadjie/)
 [![GitHub](https://img.shields.io/badge/GitHub-arruumkiranadjie-181717?style=flat-square&logo=github)](https://github.com/arruumkiranadjie)
-
----
 
 ## 📄 License
 
