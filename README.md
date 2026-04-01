@@ -23,7 +23,7 @@ Each of the **10 analyses** in this project follows a structured analytical fram
 ## 📂 Repository Structure
 
 ```
-SQL-Portfolio_BrazilianE-Commerce
+SQL-Project_BrazilianE-Commerce
 │
 ├── README.md                               ← README
 │
